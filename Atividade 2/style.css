@@ -1,0 +1,68 @@
+*{
+    color: rgb(15, 20, 25);
+}
+
+ul.navegacaobg li:hover{
+    background: rgba(15, 25, 20, 0.1);
+    border-radius: 50px;
+}
+
+ul.estatistica span{
+    font-weight: bold;
+}
+
+ul.estatistica a{
+    color: rgb(83, 100, 113);
+}
+
+ul.estatistica a:hover{
+    text-decoration: underline;
+}
+
+.publicacao{
+    color: rgb(15, 20, 25);
+}
+
+.publicacao:hover{
+    background: rgba(15, 25, 20, 0.1);
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+
+div.acoes a{
+    color: rgb(83, 100, 113);
+}
+
+#op1:hover, #op4:hover{
+    background-color: rgba(29, 155, 240, 0.1);
+    color: rgba(29, 155, 240, 1);
+    border-radius: 50px;
+}
+
+#op2:hover{
+    background-color: rgba(0, 186, 124, 0.1);
+    color: rgba(0, 186, 124, 1);
+    border-radius: 50px;
+}
+
+#op3:hover{
+    background-color: rgba(249, 24, 128, 0.1);
+    color: rgba(249, 24, 128, 1);
+    border-radius: 50px;
+}
+
+h4{
+    color: rgb(83, 100, 113);
+}
+p span{
+    color: rgb(83, 100, 113);
+}
+
+div.tzeet:hover{
+    background-color: rgba(0, 0, 0, 0.03);
+}
